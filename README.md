@@ -6,4 +6,3 @@ Developed a responsive portfolio website using HTML and Tailwind CSS, featuring 
 ## Live Demo:
 https://portfolio-ypeb.vercel.app/
 
-By showcasing this project, you highlight your frontend development skills, understanding of Tailwind CSS, and ability to create clean, responsive web designs.
